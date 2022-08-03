@@ -1,7 +1,7 @@
 ### Hi Guys, I am Alex👋
 
 - 🔭 I’m currently working on my onw development...😊
-- 🌱 I’m currently learning to be Software Enginering.
+- 🌱 I’m currently learning to be Data Enginering.
 - 👯 I’m looking to collaborate on many projects...
 - ✌️ I’m looking for help with how to be a good Dev (Please, help Me wit this).
 - 💬 Ask me about Network (I'm good on it).
