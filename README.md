@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to be Data Enginering.
 - 👯 I’m looking to collaborate on many projects...
 - ✌️ I’m looking for help with how to be a good Dev (Please, help Me wit this).
-- 💬 Ask me about Network (I'm good on it).
+- 💬 Ask me about Network and Infrastructure (I'm good on it).
 - ⚡ Fun fact: I love all technologies and everything about it.
 
 
