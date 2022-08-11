@@ -1,7 +1,7 @@
 ### Hi Guys, I am Alex👋
 
 - 🔭 I’m currently working on my onw development...😊
-- 🌱 I’m currently learning to be Data Enginering.
+- 🌱 I’m currently learning to be the best professional on the planet...
 - 👯 I’m looking to collaborate on many projects...
 - ✌️ I’m looking for help with how to be a good Dev (Please, help Me wit this).
 - 💬 Ask me about Network and Infrastructure (I'm good on it).
@@ -20,16 +20,22 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-Js" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alex-Ts" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Alex-HTML" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alex-CSS" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Alex-Java" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Alex-Cobol" height="30" width="48" src="https://www.svgrepo.com/show/373510/cobol.svg">
   <img align="center" alt="Alex-Python" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alex-Csharp" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Alex-Csharp" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />          
-  <img align="center" alt="Alex-C++" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Alex-Rstudio" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" >          
+  <img align="center" alt="Alex-C++" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" >
+  <img align="center" alt="Alex-HTML" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Alex-CSS" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 
 </div>
 
 
+        
+  
+            
+          
 ##
 
 <div>
