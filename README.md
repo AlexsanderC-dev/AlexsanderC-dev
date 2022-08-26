@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **how to be a good Data Engineer (Please, help Me wit this)**
 
-- 👨‍💻 All of my projects are available at Loading (I'm working on it.)
+- 👨‍💻 All of my projects are available at **Loading (I'm working on it.)**
 
 - 💬 Ask me about **Network and Infrastructure (I'm good on it)**
 
