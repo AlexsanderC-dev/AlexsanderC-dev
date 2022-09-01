@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">a passionate Data & Backend learner.</h3>
+<h3 align="center">A passionate Data & Backend learner.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alexsanderc-dev&label=Profile%20views&color=0e75b6&style=flat" alt="alexsanderc-dev" /> </p>
 
