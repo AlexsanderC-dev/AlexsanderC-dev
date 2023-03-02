@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **on my onw development...😊**
 
-- 🌱 I’m currently learning **Data Extraction, SQL, Machine Learnig, AWS and a lot of thing related to Data field.**
+- 🌱 I’m currently learning **Data Extraction, SQL, Machine Learnig, AWS and a lot of things related to Data field.**
 
 - 👯 I’m looking to collaborate with **many projects...**
 
